@@ -1,0 +1,9 @@
+Name,Age,Gender,Department,Marks,Attendance
+Ali,21,Male,CSE,85,92
+Sara,22,Female,EEE,NaN,88
+Tanvir,23,Male,CSE,74,95
+Nusrat,21,Female,BBA,90,NaN
+Rakib,NaN,Male,CSE,65,70
+Farzana,24,Female,EEE,78,82
+Hasan,22,Male,BBA,,85
+Tuli,23,Female,CSE,88,90
